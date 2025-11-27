@@ -1,9 +1,7 @@
 ### To be checked by the author of the Pull Request
 
-| Review checklist item             | Status | Comment |
-| --------------------------------- | ------ | ------- |
-| No compiler warnings displayed    | - [ ]  |         |
-| All tests passed                  | - [ ]  |         |
-| Code formatted                    | - [ ]  |         |
-| Documentation updated (if needed) | - [ ]  |         |
-| No secrets or credentials added   | - [ ]  |         |
+- [ ] **No compiler warnings displayed** — Comment: _add comment here_
+- [ ] **All tests passed** — Comment: _add comment here_
+- [ ] **Code formatted** — Comment: _add comment here_
+- [ ] **Documentation updated (if needed)** — Comment: _add comment here_
+- [ ] **No secrets or credentials added** — Comment: _add comment here_
