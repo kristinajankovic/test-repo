@@ -1,4 +1,4 @@
-| some item        | ok / nok / n/a                     | comment |
-| ---------------- | ---------------------------------- | ------- |
-| some text.       | <ul><li> - [ ] <!-- --> </li></ul> |         |
-| some other text. | <ul><li> - [ ] <!-- --> </li></ul> |         |
+| some item        | Status                                 | comment |
+| ---------------- | -------------------------------------- | ------- |
+| some text.       | - [ ] Ok <br> - [ ] NOK <br> - [ ] N/A |         |
+| some other text. | - [ ] Ok <br> - [ ] NOK <br> - [ ] N/A |         |
