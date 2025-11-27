@@ -1,15 +1,9 @@
-**Item:** Some description  
-**Status:** - [ ]  
-**Comment:** something
+### To be checked by the author of the Pull Request
 
----
-
-**Item:** Another one  
-**Status:** - [x]  
-**Comment:** done
-
----
-
-- [ ] Some task
-- [x] Completed task
-- [ ] Another task
+| Review checklist item             | Status | Comment |
+| --------------------------------- | ------ | ------- |
+| No compiler warnings displayed    | - [ ]  |         |
+| All tests passed                  | - [ ]  |         |
+| Code formatted                    | - [ ]  |         |
+| Documentation updated (if needed) | - [ ]  |         |
+| No secrets or credentials added   | - [ ]  |         |
