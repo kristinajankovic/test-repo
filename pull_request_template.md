@@ -1,4 +1,15 @@
-| some item        | Status                                 | comment |
-| ---------------- | -------------------------------------- | ------- |
-| some text.       | - [ ] Ok <br> - [ ] NOK <br> - [ ] N/A |         |
-| some other text. | - [ ] Ok <br> - [ ] NOK <br> - [ ] N/A |         |
+**Item:** Some description  
+**Status:** - [ ]  
+**Comment:** something
+
+---
+
+**Item:** Another one  
+**Status:** - [x]  
+**Comment:** done
+
+---
+
+- [ ] Some task
+- [x] Completed task
+- [ ] Another task
